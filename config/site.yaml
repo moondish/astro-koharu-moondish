@@ -11,7 +11,7 @@
 # Site Basic Information
 # =============================================================================
 site:
-  title: 余弦の博客 # 网站名称
+  title: moondishの主页 # 网站名称
   alternate: cosine # 网站英文名称 用于页脚、Logo、@ handle 等
   subtitle: WA 的一声就哭了 # 网站副标题
   name: cos # 作者名称 - 请修改为你的名字
